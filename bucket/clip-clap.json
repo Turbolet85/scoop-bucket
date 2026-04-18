@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "Area-select screenshot → PNG save → path to clipboard",
     "homepage": "https://github.com/Turbolet85/clip-clap",
     "license": "Apache-2.0",
-    "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.4/clip-clap.exe",
-    "hash": "sha256:853407eeed11ab7a31fdd1fd2de4fa7bae7d469e6cc76460adb9045ebe0789ca",
+    "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.6/clip-clap.exe",
+    "hash": "sha256:97f1489627d98d5cdd25a542d5c76fb65339f592b3c11437666979c6f81b06d3",
     "bin": ["clip-clap.exe"],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.4/clip-clap.exe",
-            "hash": "sha256:853407eeed11ab7a31fdd1fd2de4fa7bae7d469e6cc76460adb9045ebe0789ca"
+            "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.6/clip-clap.exe",
+            "hash": "sha256:97f1489627d98d5cdd25a542d5c76fb65339f592b3c11437666979c6f81b06d3"
         }
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.4/clip-clap.exe"
+        "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.6/clip-clap.exe"
     }
 }
