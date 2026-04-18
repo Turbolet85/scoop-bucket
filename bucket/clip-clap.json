@@ -4,16 +4,16 @@
     "homepage": "https://github.com/Turbolet85/clip-clap",
     "license": "Apache-2.0",
     "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.0/clip-clap.exe",
-    "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+    "hash": "sha256:d00c6a38a0ffae536ebe72a5de08b8662899e59d21c879c0cbc9da7508888a13",
     "bin": ["clip-clap.exe"],
     "architecture": {
         "64bit": {
             "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.0/clip-clap.exe",
-            "hash": "sha256:0000000000000000000000000000000000000000000000000000000000000000"
+            "hash": "sha256:d00c6a38a0ffae536ebe72a5de08b8662899e59d21c879c0cbc9da7508888a13"
         }
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/Turbolet85/clip-clap/releases/download/v$version/clip-clap.exe"
+        "url": "https://github.com/Turbolet85/clip-clap/releases/download/v1.0.0/clip-clap.exe"
     }
 }
